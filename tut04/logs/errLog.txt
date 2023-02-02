@@ -1,0 +1,3 @@
+20230131	14:02:31	110a8e6b-6b4a-4cec-aef3-ca5de2dc58b3	Error	Not allowed by the cors
+20230202	10:50:02	59aae71c-5348-4965-9e4e-16cb4b1aefc2	TypeError	data.setEmployees is not a function
+20230202	11:05:02	72c583e8-0109-4501-9f1a-da93fbf1fe2d	ReferenceError	Cannot access 'user' before initialization
