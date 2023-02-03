@@ -1,14 +1,27 @@
 [
   {
-    "username": "sunil12ap",
-    "password": "$2b$10$L.R7p0y6M49v6ejek1FWOOtBURgmNjX3lnogDGb0jHYO7sYu1G3FC"
+    "username": "sunilChauhan",
+    "roles": {
+      "admin": 555,
+      "editor": 444,
+      "user": 333
+    },
+    "password": "$2b$10$ILnMrr2X5RFFoJ59sohDaO55nfBUzawLUT2SDsA0HSgj20sHVRmc2"
   },
   {
     "username": "sunil121ml",
-    "password": "$2b$10$1D2it2UbY7ikKURIbRRtseXwOv7JHQy98QUNcJL/GrcALsdSKYdBC"
+    "roles": {
+      "editor": 444,
+      "user": 333
+    },
+    "password": "$2b$10$E/tW3PSndrLumEg/HIGpqOZH21rmSSiMJtyWIIWmO686u09s25nJ2"
   },
   {
-    "username": "sunilChauhan",
-    "password": "$2b$10$ILnMrr2X5RFFoJ59sohDaO55nfBUzawLUT2SDsA0HSgj20sHVRmc2"
+    "username": "sunil12ap",
+    "roles": {
+      "user": 333
+    },
+    "password": "$2b$10$L.R7p0y6M49v6ejek1FWOOtBURgmNjX3lnogDGb0jHYO7sYu1G3FC",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InN1bmlsMTJhcCIsImlhdCI6MTY3NTQyMTUzOCwiZXhwIjoxNjc1NTA3OTM4fQ.n_3dUCSoA3vW2FOZTyuR3i1rbfcHl-Cg2cgML0yvot8"
   }
 ]
